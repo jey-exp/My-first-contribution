@@ -9031,3 +9031,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I am [azero1791](https://github.com/azero1791) from Nanjing, China.Nice to meet you all!
 - Hi, I'm [pixelledbot](https://github.com/pixelledbot) from India.
 - Hi, I'm [irfanahmed](https://github.com/Md-Irfan-Ahmed) from India, very eager to give my first open source contribution
+- Hi, I'm [0w0d](https://github.com/0w0d) from Taiwan, go watch madoka magica.
